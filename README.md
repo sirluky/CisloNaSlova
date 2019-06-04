@@ -16,3 +16,6 @@ let CisloNaSlova = require('cislonaslova');
 console.log(CisloNaSlova(123));
 // return: sto dvacet tři
 ```
+
+
+<small>PS: Kod na prevod na slova jsem psal pred pulrokem, jako moje reseni dobrovolneho domaciho ukolu do skoly.</small>
