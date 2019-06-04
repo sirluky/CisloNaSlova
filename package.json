@@ -1,0 +1,18 @@
+{
+  "name": "cislonaslova",
+  "version": "0.1.1",
+  "description": "Prevede cislo na slova (cesky",
+  "main": "index.js",
+  "repository": "github:user/repo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numbertoword",
+    "czech",
+    "cesky",
+    "ceska"
+  ],
+  "author": "sirluky",
+  "license": "ISC"
+}
