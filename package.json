@@ -3,7 +3,8 @@
   "version": "0.1.1",
   "description": "Prevede cislo na slova (cesky",
   "main": "index.js",
-  "repository": "github:user/repo",
+  "bin": "index.js",
+  "repository": "github:sirluky/CisloNaSlova",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +15,5 @@
     "ceska"
   ],
   "author": "sirluky",
-  "license": "ISC"
+  "license": "MIT"
 }
