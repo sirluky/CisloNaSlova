@@ -1,4 +1,4 @@
-# Toto je muj prvni pokus o verejny NPM balicek
+# Číslo na slova
 
 Převede vám číslo na slovní spojení.
 např:
